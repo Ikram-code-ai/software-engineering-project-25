@@ -10,3 +10,4 @@
 
 pour lancer un fichier, utiliser la commande suivante dans le terminal :
 python nom_du_fichier.py
+ je travaille encore sur les autres fichiers et leurs erreurs dont le main, mais je les soumettrai bientot 
