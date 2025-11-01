@@ -14,12 +14,13 @@
 Pour exécuter le code, ouvrir un terminal dans le dossier du projet et utiliser :  
 ```bash
 python nom_du_fichier.py 
+```
 
 Donc:
-
+```bash
 python main.py
 python benchmarks.py
-
+```
 
 ## Contenu du projet
 
