@@ -56,5 +56,8 @@ python benchmarks.py
 
 ## Rapport
 
-Le rapport du projet (explications, résultats et interprétations) sera ajouté ultérieurement sous le nom :  
-**`rapport_BENCHALAL_IKRAM.pdf`**
+## 📄 Rapport du projet
+
+Le rapport complet du projet est disponible ici :  
+ [Ouvrir le rapport du projet en PDF](https://github.com/Ikram-code-ai/software-engineering-project-25/blob/main/rapport_BENCHALAL_IKRAM.pdf)
+
